@@ -27,3 +27,5 @@ INÍCIO
         ESCREVA "O resultado de 9 x ", n, " é: ", resultado
     FIM_SE
 FIM
+
+
